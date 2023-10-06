@@ -1,0 +1,52 @@
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\bin\Debug\StokTakipveSatisUygulamasi.exe.config
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\bin\Debug\StokTakipveSatisUygulamasi.exe
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StockTrackingApplication.csproj.AssemblyReference.cache
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.FormAlert.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.frmHome.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.frmUsers.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.HomePage.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.Loading.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.Login.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.frmProducts.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.Properties.Resources.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.frmSignUp.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.Login.agq.resources
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StockTrackingApplication.csproj.GenerateResource.cache
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StockTrackingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\agq\StokTakipveSatisUygulamasi.resources.dll
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StockTrackingApplication.csproj.CopyComplete
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.exe
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\obj\Debug\StokTakipveSatisUygulamasi.pdb
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\bin\Debug\StokTakipveSatisUygulamasi.pdb
+C:\Users\Alican\Desktop\StokTakipveSatisUygulamasi - Kopya\bin\Debug\agq\StokTakipveSatisUygulamasi.resources.dll
+C:\Users\Alican\Desktop\StockTrackingApplication\bin\Debug\StokTakipveSatisUygulamasi.exe.config
+C:\Users\Alican\Desktop\StockTrackingApplication\bin\Debug\StokTakipveSatisUygulamasi.exe
+C:\Users\Alican\Desktop\StockTrackingApplication\bin\Debug\StokTakipveSatisUygulamasi.pdb
+C:\Users\Alican\Desktop\StockTrackingApplication\bin\Debug\agq\StokTakipveSatisUygulamasi.resources.dll
+C:\Users\Alican\Desktop\StockTrackingApplication\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Alican\Desktop\StockTrackingApplication\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Alican\Desktop\StockTrackingApplication\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Alican\Desktop\StockTrackingApplication\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Alican\Desktop\StockTrackingApplication\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StockTrackingApplication.csproj.AssemblyReference.cache
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.FormAlert.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.frmHome.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.frmUsers.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.HomePage.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.Loading.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.Login.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.frmProducts.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.Properties.Resources.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.frmSignUp.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.Login.agq.resources
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StockTrackingApplication.csproj.GenerateResource.cache
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StockTrackingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\agq\StokTakipveSatisUygulamasi.resources.dll
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StockTrackingApplication.csproj.CopyComplete
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.exe
+C:\Users\Alican\Desktop\StockTrackingApplication\obj\Debug\StokTakipveSatisUygulamasi.pdb
